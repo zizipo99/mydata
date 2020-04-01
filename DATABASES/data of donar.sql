@@ -1,0 +1,1 @@
+SELECT * FROM `zizipo-db`.`data of donar`;

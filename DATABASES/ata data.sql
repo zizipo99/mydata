@@ -1,0 +1,1 @@
+SELECT * FROM `zizipo-db`.`ata of blood bank`;
